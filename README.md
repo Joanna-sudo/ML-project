@@ -12,7 +12,7 @@
 <b>Dataset description:</b> Images for all shapes were taken with [Python script](https://github.com/SouravJohar/rock-paper-scissors/blob/master/gather_images.py?fbclid=IwAR2b7Anq5vXhFP_A-YYDegejXPx6B8IkiH-tDFeYZIqVKFd3D9SjOxGvfjU) (with a small change: reverse mirror effect). The dataset consists of 3600 images, 600 images for each class.
 </br>
 </br>
-Recommendation: Play game in front of a white surface, such as a wall.
+<b>Recommendation:</b> Play game in front of a white surface, such as a wall.
 
 </br>
 </br>
